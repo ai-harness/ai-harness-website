@@ -1,52 +1,39 @@
 ---
-title: "Lightning-Fast Performance"
-description: "Leverage Hugo's blazing-fast build times and optimized output. Your website loads instantly, providing an exceptional user experience."
+title: "Performance Intelligence"
+description: "Give every business unit a live view of how managed OpenClaw automations move the needle."
 layout: "feature"
 badge: "Performance"
 badgeColor: "#2563eb"
 features:
-  - title: "Sub-second Page Loads"
-    description: "Experience instant page transitions with Hugo's static site generation. Pages load in milliseconds, ensuring visitors stay engaged."
-  - title: "Optimized Assets"
-    description: "Automatically optimize images, CSS, and JavaScript. Reduce file sizes without compromising quality for faster load times."
-  - title: "Minimal JavaScript"
-    description: "Built with minimal JavaScript dependencies. Pages remain fast and functional while keeping the bundle size small."
-  - title: "CDN-Ready Output"
-    description: "Deploy your site to any CDN for global distribution. Static files are optimized for edge caching and maximum performance."
+  - title: "Cross-vertical scorecards"
+    description: "Track revenue lift, ticket deflection, cycle-time compression, and compliance evidence in a single dashboard."
+  - title: "Executive-ready reporting"
+    description: "Weekly digests translate agent telemetry into KPIs finance and ops leaders already track."
+  - title: "ROI guardrails"
+    description: "Alerting and playbooks trigger when utilization drops or SLAs drift so you can course-correct fast."
+  - title: "Benchmark insights"
+    description: "Anonymized data across deployments shows how peers staff copilots and sequence new workflows."
 demo:
-  description: "See how our optimized build process delivers lightning-fast page loads and smooth transitions."
+  description: "See the business cockpit customers use to quantify AI-Harness impact."
   image: "/images/feature-1.svg"
 ---
 
-## Built for Speed
+## Business outcomes on autopilot
 
-Our theme is engineered from the ground up with performance in mind. By leveraging Hugo's powerful static site generation and combining it with modern optimization techniques, we deliver websites that load instantly and run smoothly.
+AI-Harness bundles analytics into the managed service so you never wonder whether autonomous agents are delivering. We stitch run data, connector health, and workflow KPIs into the same view the CFO, COO, and GTM leads already trust.
 
-### Performance Metrics
+### What teams monitor
 
-- **Build Time**: Less than 1 second for most sites
-- **Page Load Time**: Under 500ms first contentful paint
-- **Time to Interactive**: Under 1.5 seconds
-- **Google Lighthouse Score**: 95+ on all metrics
+- **Revenue:** Pipeline coverage, meeting prep time saved, proposal velocity, and forecast accuracy deltas.
+- **Operations:** S&OP cadence completion, vendor turnaround, inventory planning accuracy, and financial close tasks automated.
+- **Customer experience:** Ticket deflection, CSAT impact, time-to-resolution, and knowledge gaps surfaced.
+- **Compliance:** Control evidence freshness, policy exceptions, and audit packet readiness.
 
-### Optimization Features
+### Built for SMB cadence
 
-#### Asset Optimization
-- Automatic image optimization and WebP conversion
-- CSS minification and purging of unused styles
-- JavaScript bundling and tree-shaking
-- Lazy loading of images and components
+- Shareable links and scheduled decks for weekly business reviews
+- Drill-down run histories with transcript-level context for audits
+- Health alerts piped into Slack/Teams so owners can resolve issues without leaving their workspace
+- KPI templates that mirror common SMB dashboards (NetSuite, Mosaic, Cube, etc.)
 
-#### Caching Strategy
-- Efficient browser caching with proper headers
-- Static asset fingerprinting
-- Pre-rendered HTML for instant loads
-- Service worker for offline capabilities
-
-#### CDN Integration
-- Built for global distribution
-- Edge caching ready
-- Automatic cache invalidation
-- Geographic redundancy
-
-Our performance-first approach ensures your website not only looks great but delivers an exceptional user experience through blazing-fast load times and smooth interactions.
+The result: leadership sees exactly how a managed OpenClaw instance improves each vertical, making expansion conversations straightforward.

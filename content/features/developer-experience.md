@@ -1,75 +1,45 @@
 ---
-title: "Developer Experience"
-description: "Enjoy a seamless development experience with hot reload, component-based architecture, and clean, maintainable code."
+title: "Admin & Integration Experience"
+description: "Give lean IT teams the controls they need without forcing them to own the plumbing."
 layout: "feature"
-badge: "Development"
+badge: "Admin"
 badgeColor: "#16a34a"
 features:
-  - title: "Component System"
-    description: "Modular component architecture makes it easy to build and maintain your website. Reuse components across pages while maintaining consistency."
-  - title: "Easy Customization"
-    description: "Clear configuration files and well-organized code make it simple to customize any aspect of your site. No deep Hugo knowledge required."
-  - title: "Clean Code"
-    description: "Well-structured, documented code following best practices. Makes maintenance and updates straightforward for any developer."
-  - title: "Detailed Documentation"
-    description: "Comprehensive documentation covers everything from setup to advanced customization. Includes examples and best practices."
+  - title: "Managed tenants"
+    description: "Dedicated OpenClaw environments with SSO, RBAC, and audit logging configured for you."
+  - title: "Connector studio"
+    description: "Point-and-click adapters plus expert help when bespoke APIs or RPA bridges are required."
+  - title: "Policy automation"
+    description: "Guardrails, DLP, and approval routing expressed as declarative policies—not brittle scripts."
+  - title: "Observability hooks"
+    description: "Streaming telemetry, webhook events, and log exports slot into your existing monitoring stack."
 demo:
-  description: "See how our developer-friendly architecture makes building websites a breeze."
+  description: "See how administrators configure AI-Harness without touching infra."
   image: "/images/feature-3.svg"
 ---
 
-## Built for Developers
+## Enterprise rigor, SMB effort
 
-Our theme is designed with developers in mind, providing a clean, efficient workflow that makes building websites enjoyable and productive.
+AI-Harness handles the heavy lifting—patching, scaling, backups—while still giving your admins the visibility and controls they expect from a professional SaaS platform.
 
-### Development Features
+### Controls that matter
 
-#### Project Structure
-- Logical directory organization
-- Clear separation of concerns
-- Modular component architecture
-- Consistent naming conventions
+- SCIM provisioning, SCIM deprovisioning, and role templates mapped to common org charts
+- Secrets vault managed by AI-Harness with automated rotation policies
+- Fine-grained permissions down to workflow, record type, and action
+- Approval matrices that mirror your delegation of authority
 
-#### Development Workflow
-- Fast hot reload development server
-- Automatic asset processing
-- Source maps for debugging
-- Build process optimization
+### Integration lifecycle
 
-#### Component System
+- Sandbox → staging → production promotion paths to test new agents safely
+- Automated contract testing catches schema drift before it hits users
+- Shared playbooks for troubleshooting connectors, with AI-Harness on call if something breaks
+- Exportable configuration snapshots for change management reviews
 
-##### Shortcodes
-- Rich set of pre-built shortcodes
-- Easy to create custom shortcodes
-- Documentation for each shortcode
-- Example implementations
+### Visibility without toil
 
-##### Partials
-- Reusable partial templates
-- Context-aware components
-- Easy to extend and modify
-- Clear documentation
+- Real-time event stream to Splunk, Datadog, or your preferred SIEM
+- Incident notifications with run context and remediation steps
+- Monthly posture reports summarizing access changes, policy updates, and integration health
 
-#### Customization
-
-##### Configuration
-- Central configuration file
-- Environment variables support
-- Feature flags
-- Easy theme customization
-
-##### Styling
-- TailwindCSS integration
-- PostCSS processing
-- Custom CSS support
-- Design token system
-
-#### Documentation
-- Getting started guide
-- Component documentation
-- Configuration reference
-- Best practices
-- Troubleshooting guide
-- Deployment instructions
-
-Our developer experience focuses on making it easy to build, customize, and maintain your website while following best practices and maintaining clean, efficient code.
+SMBs get the benefits of a dedicated platform team, minus the headcount.

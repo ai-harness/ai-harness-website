@@ -1,66 +1,39 @@
 ---
-title: "Beautiful Design System"
-description: "Create stunning user interfaces with our comprehensive design system built on TailwindCSS. Customize everything to match your brand."
+title: "Experience Layer for Humans"
+description: "Deliver copilots your teams actually use with guided workspaces, training content, and safeguards baked in."
 layout: "feature"
-badge: "Design"
+badge: "Adoption"
 badgeColor: "#7c3aed"
 features:
-  - title: "Modern UI Components"
-    description: "A complete set of pre-built components designed for SaaS websites. From navigation bars to pricing tables, everything you need is included."
-  - title: "Responsive Design"
-    description: "Every component is fully responsive and tested across all device sizes. Your website will look great on everything from phones to large displays."
-  - title: "Custom Typography"
-    description: "Carefully crafted typography system with perfect vertical rhythm. Easily customize fonts and sizes to match your brand guidelines."
-  - title: "Flexible Layouts"
-    description: "Modular layout system that adapts to your content. Create unique page layouts while maintaining consistent spacing and alignment."
+  - title: "Guided workspaces"
+    description: "Pre-built UI patterns for revenue, ops, support, and compliance teams keep agents inside familiar flows."
+  - title: "Approval pathways"
+    description: "Configurable review steps, escalation routing, and audit trails satisfy even the most cautious stakeholders."
+  - title: "Embedded education"
+    description: "Contextual tips, recordings, and documentation live alongside each run so busy users onboard themselves."
+  - title: "Brand & security controls"
+    description: "Customize language, tone, and data-access policies without touching code."
 demo:
-  description: "Explore our comprehensive design system built with TailwindCSS."
+  description: "Preview the operator console customers use to manage AI-Harness day to day."
   image: "/images/feature-2.svg"
 ---
 
-## Comprehensive Design System
+## Adoption is the product
 
-Our theme includes a complete design system that makes it easy to create beautiful, consistent interfaces. Built on TailwindCSS, it provides the flexibility to customize every aspect of your design while maintaining a professional look.
+SMB teams don’t have time to learn another developer tool. AI-Harness wraps OpenClaw in polished, SaaS-grade experiences so every department can guide, approve, and trust autonomous work.
 
-### Design Components
+### Built-in UX patterns
 
-#### Core Elements
-- Typography system with perfect vertical rhythm
-- Color palette with semantic variables
-- Spacing and sizing scales
-- Grid and layout systems
+- Role-based home screens that summarize active copilots, pending approvals, and recommended next workflows
+- Structured intake forms that capture business context before an automation fires
+- Rich transcripts with attachments, system notes, and replay links for training or audits
+- In-line feedback widgets so operators can coach models without opening a ticket
 
-#### UI Components
-- Navigation components (headers, footers, menus)
-- Hero sections and feature displays
-- Cards and content containers
-- Forms and input elements
-- Buttons and CTAs
-- Pricing tables
-- Testimonial displays
-- Team member profiles
+### Change management baked in
 
-#### Design Features
+- On-demand training library tailored to each vertical
+- Usage nudges delivered via Slack/Teams when new capabilities go live
+- Release notes and guardrail updates surfaced directly in the console
+- Persona-based communications templates to socialize wins with stakeholders
 
-##### Customization
-- Easy theme customization through TailwindCSS
-- Brand color management
-- Typography customization
-- Spacing system adjustment
-- Component variants
-
-##### Accessibility
-- WCAG 2.1 compliant components
-- Proper ARIA attributes
-- Keyboard navigation support
-- High contrast mode support
-- Screen reader optimized
-
-##### Responsive Design
-- Mobile-first approach
-- Breakpoint system
-- Fluid typography
-- Adaptive layouts
-- Touch-friendly interactions
-
-Our design system provides the perfect foundation for creating beautiful, accessible, and responsive websites that stand out from the crowd.
+With AI-Harness, the "managed" part of managed OpenClaw includes UX, education, and trust-building—so adoption sticks long after the initial rollout.
