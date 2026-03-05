@@ -1,6 +1,6 @@
 # Basic Configuration
 baseURL = "/"
-title = "AI Harness"
+title = "AIHARNESS"
 theme = "hugo-saasify-theme"
 defaultContentLanguage = "en"
 
