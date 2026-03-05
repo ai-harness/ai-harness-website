@@ -51,7 +51,7 @@ paginatePath = "page"
 
 # Theme Parameters
 [params]
-  description = "Build your AI application website with blazing-fast Hugo + TailwindCSS — deliver responsive experiences that load instantly and scale with confidence."
+  description = "Build your AI application website with blazing-fast Hugo + TailwindCSS — deliver modern, responsive experiences that load instantly and scale with confidence."
   author = "Your Name"
   logo = "/images/logo.svg"      # Path to your logo
   # Google Analytics ID (e.g., "G-XXXXXXXXXX")
